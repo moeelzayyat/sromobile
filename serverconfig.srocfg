@@ -1,8 +1,8 @@
 SROCFG1
-2aKxfF0eN40S22uccg4grTi6ioqPnzm0BuINmzf8kwfDt6+JJRwOS/1ks02DG+5jRt5NVSqoUrIdD3iitTGUAQ==
-serial=22
+ETPxPe0Gnfuikx1nnSEWqZFOzqpjlSEoe7AbMXSLSYReHIBTJO6r59nqcByi5Ue7nSZnivSs5rdzku02cUKWCg==
+serial=23
 expires=4102444800
 locale=22
-port=20003
-gateway=15.204.156.218
+port=15780
+gateway=15.204.156.229
 download=https://files.play-radix.com/radix-a/silkroad/
